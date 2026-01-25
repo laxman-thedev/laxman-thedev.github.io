@@ -1,0 +1,149 @@
+@font-face {
+  font-family: "tz-icon";
+  src: url("../fonts/icons/tz-icon.eot");
+  src: url("../fonts/icons//tz-icon.eot?9254qd#iefix")
+      format("embedded-opentype"),
+    url("../fonts/icons/tz-icon.ttf?9254qd") format("truetype"),
+    url("../fonts/icons/tz-icon.woff?9254qd") format("woff"),
+    url("../fonts/icons/tz-icon.svg?9254qd#tz-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="tz-icon-"],
+[class*=" tz-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "tz-icon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tz-icon-support:before {
+  content: "\e900";
+}
+.tz-icon-add-person:before {
+  content: "\e901";
+}
+.tz-icon-arrow-top-right:before {
+  content: "\e902";
+}
+.tz-icon-bookmark:before {
+  content: "\e903";
+}
+.tz-icon-building:before {
+  content: "\e904";
+}
+.tz-icon-calder-tick:before {
+  content: "\e905";
+}
+.tz-icon-chroven-down:before {
+  content: "\e906";
+}
+.tz-icon-chroven-left:before {
+  content: "\e907";
+}
+.tz-icon-chroven-right:before {
+  content: "\e908";
+}
+.tz-icon-chroven-up:before {
+  content: "\e909";
+}
+.tz-icon-double-right:before {
+  content: "\e90a";
+}
+.tz-icon-double-right-light:before {
+  content: "\e90b";
+}
+.tz-icon-facebook .path1:before {
+  content: "\e90c";
+}
+.tz-icon-facebook .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+
+  opacity: 0.2;
+}
+.tz-icon-guide:before {
+  content: "\e90e";
+}
+.tz-icon-half-star:before {
+  content: "\e90f";
+}
+.tz-icon-help-support:before {
+  content: "\e910";
+}
+.tz-icon-idea:before {
+  content: "\e911";
+}
+.tz-icon-instagram .path1:before {
+  content: "\e912";
+}
+.tz-icon-instagram .path2:before {
+  content: "\e913";
+}
+.tz-icon-linkedin .path1:before {
+  content: "\e914";
+}
+.tz-icon-linkedin .path2:before {
+  content: "\e915";
+}
+.tz-icon-locator:before {
+  content: "\e916";
+}
+.tz-icon-long-arrow-right:before {
+  content: "\e917";
+}
+.tz-icon-message:before {
+  content: "\e918";
+}
+.tz-icon-paper-plane:before {
+  content: "\e919";
+}
+.tz-icon-phone-call:before {
+  content: "\e91a";
+}
+.tz-icon-play:before {
+  content: "\e91b";
+}
+.tz-icon-plus:before {
+  content: "\e91c";
+}
+.tz-icon-quote:before {
+  content: "\e91d";
+}
+.tz-icon-reply:before {
+  content: "\e91e";
+}
+.tz-icon-right-big-arrow:before {
+  content: "\e91f";
+}
+.tz-icon-search:before {
+  content: "\e920";
+}
+.tz-icon-search-doc:before {
+  content: "\e921";
+}
+.tz-icon-shield:before {
+  content: "\e922";
+}
+.tz-icon-star:before {
+  content: "\e923";
+}
+.tz-icon-tick:before {
+  content: "\e924";
+}
+.tz-icon-time-calender:before {
+  content: "\e925";
+}
+.tz-icon-twitter:before {
+  content: "\e926";
+}
